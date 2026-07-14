@@ -126,7 +126,7 @@ SELECT * FROM Appointments LIMIT 1;
 
 > Replace the image below with the screenshot of your SQL code.
 
-![SQL Code](experiment_1.png)
+![SQL Code](Experiment_1_code.png)
 
 ---
 
@@ -134,7 +134,7 @@ SELECT * FROM Appointments LIMIT 1;
 
 The output obtained after executing the SQL queries is shown below.
 
-![Output](experiment_1_code.png)
+![Output](experiment_1.png)
 
 ---
 
