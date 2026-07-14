@@ -126,8 +126,7 @@ SELECT * FROM Appointments LIMIT 1;
 
 > Replace the image below with the screenshot of your SQL code.
 
-![SQL Code](<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/e698e2e0-45dc-4b25-9a4c-8f3372d79e96" />
-)
+![SQL Code](experiment_1.png)
 
 ---
 
@@ -135,8 +134,7 @@ SELECT * FROM Appointments LIMIT 1;
 
 The output obtained after executing the SQL queries is shown below.
 
-![Output](<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/ed5b94ef-6550-4996-a417-6e6de1671e68" />
-)
+![Output](experiment_1_code.png)
 
 ---
 
